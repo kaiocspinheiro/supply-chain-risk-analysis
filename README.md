@@ -17,7 +17,7 @@ Dataset de operações logísticas globais entre 2024-2026.
 
 ## 1.1 - Como a taxa de interrupção varia por categoria de produto e modo de transporte?
 
-![Taxa de interrupção](images/1 - Taxa de interrupção por categoria e modo de transporte.png)
+![Taxa de interrupção](images/1.png)
 
 O heatmap mostra como a taxa de interrupção varia entre diferentes categorias de produtos e modos de transporte.
 
@@ -28,7 +28,7 @@ Por outro lado, algumas combinações apresentam maior estabilidade, como Electr
 # 2️⃣ Impacto das Condições Climáticas
 ## 2.1 - Como diferentes condições climáticas afetam o prazo de entrega?
 
-![Impacto das condições do tempo](images/2 - Impacto das condições do tempo em dias.png)
+![Impacto das condições do tempo](images/2.png)
 
 O boxplot mostra a distribuição do dos prazos em dias para diferentes condições climáticas. Observa-se que **furacões (Hurricane)** apresentam o maior impacto no tempo de entrega, com maior mediana e grande variabilidade, além de diversos outliers indicando atrasos extremos.
 
@@ -39,7 +39,7 @@ Esses resultados indicam que **eventos climáticos extremos, especialmente furac
 # 3️⃣ Rotas com Maior Prazo de Entrega
 ## 3.1 - Quais rotas apresentam maior prazo médio de entrega?
 
-![Top rotas com maior prazo médio](images/3- Top 10 rotas com maior prazo médio (dias).png)
+![Top rotas com maior prazo médio](images/3.png)
 
 Observa-se que muitas das rotas com maior prazo médio envolvem conexões entre portos europeus (Rotterdam, Hamburg, Antwerp) e asiáticos (Busan, Shanghai, Singapore). 
 
@@ -48,7 +48,7 @@ Isso sugere que rotas intercontinentais tendem a apresentar maiores prazos médi
 # 4️⃣ Portos Associados a Maiores Atrasos
 ## 4.1 - Quais portos estão associados aos maiores prazos médios?
 
-![Média de atrasos por portos](images/4 - Média de maiores atrasos por portos.png)
+![Média de atrasos por portos](images/4.png)
 
 A análise dos prazos médios por porto mostra que alguns portos estão associados a prazos de entrega mais elevados. Portos como **Shanghai, Rotterdam e Hamburg** apresentam os maiores tempos médios, o que pode indicar rotas mais longas, maior volume de carga ou maior complexidade logística nessas regiões.
 
@@ -65,5 +65,6 @@ Eventos climáticos extremos aumentam significativamente os prazos de entrega.
 Rotas intercontinentais tendem a apresentar maiores prazos.
 
 Alguns portos aparecem associados a maiores atrasos logísticos.
+
 
 Esses resultados mostram que a gestão eficiente da cadeia de suprimentos depende de compreender fatores ambientais, estruturais e operacionais que impactam o fluxo logístico global.
